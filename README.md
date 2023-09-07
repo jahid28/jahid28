@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **techywebdev2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view](https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view)
+- 📄 My resume [https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view](https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
