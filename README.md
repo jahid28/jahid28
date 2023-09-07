@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahid Khan</h1>
 <h3 align="center">A full-stack web-developer currently in B-Tech IT 3rd year</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="jahid28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid28" alt="jahid28" /></a> </p>
 
 - 🌱 I’m currently learning **Devops and DSA**
 
