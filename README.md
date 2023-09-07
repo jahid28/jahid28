@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahid Khan</h1>
 <h3 align="center">A full-stack web-developer currently in B-Tech IT 3rd year</h3>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid28" alt="jahid28" /></a> </p>
 
 - 🌱 I’m currently learning **Devops and DSA**
 
@@ -11,14 +11,14 @@
 
 - 📫 How to reach me **techywebdev2003@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view](https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view)
+- 📄 My Resume [https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view](https://drive.google.com/file/d/1OcnleueB0OWLFijDpJ5IvDMub1Q_L7rh/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/28_jahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="28_jahid" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jahid-khan-722690228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahid-khan-722690228/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA" height="30" width="40" /></a>
-<a href="https://leetcode.com/jahid28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jahid28/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jahid-khan-722690228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-khan-722690228" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uce65gfp4vr1_nvbzo-r-osa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uce65gfp4vr1_nvbzo-r-osa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jahid28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahid28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid28&show_icons=true&locale=en&layout=compact" alt="jahid28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid28&show_icons=true&locale=en" alt="jahid28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid28&" alt="jahid28" /></p>
