@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops and DSA**
 
-- 👨‍💻 You can see my portfolio here : [jahidkhan.vercel.app](jahidkhan.vercel.app)
+- 👨‍💻 You can see my portfolio here : [jahidkhan.vercel.app](https://jahidkhan.vercel.app)
 
 - 📽️ Checkout my YT channel [Techy Web Dev](https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA)
 
