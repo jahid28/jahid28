@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahid Khan</h1>
-<h3 align="center">A full-stack web-developer currently in B-Tech IT 4th year</h3>
+<h3 align="center">A full-stack web-developer and a DevOps engineer</h3>
 <img align="right" alt="coding" width='400' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PMP8RkQKFWXbwIH8VqZjh9NyKUmwRjATug&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="jahid28" /> </p>
-
-- 🌱 I’m currently learning **Devops and DSA**
 
 - 👨‍💻 You can see my portfolio here : [jahidkhan.vercel.app](https://jahidkhan.vercel.app)
 
