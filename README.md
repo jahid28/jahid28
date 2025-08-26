@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width='400' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PMP8RkQKFWXbwIH8VqZjh9NyKUmwRjATug&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="jahid28" /> </p>
 
-- 👨‍💻 You can see my portfolio here : [jahidkhan.vercel.app](https://jahidkhan.vercel.app)
+- 👨‍💻 You can see my portfolio here : [jahidkhan.me](https://jahidkhan.me)
 
 - 📽️ Checkout my YT channel [Techy Web Dev](https://www.youtube.com/channel/UCe65gfP4Vr1_NVbZo-r-oSA)
 
